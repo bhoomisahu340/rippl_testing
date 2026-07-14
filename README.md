@@ -57,6 +57,7 @@ Lag/Slowness	Navigate between Discover, Profile, Collections, Settings	Medium
 Profile Photo (Gallery only)	Profile → Change Photo	Low
 ________________________________________
 EVIDENCE (Screenshots / Videos)
+Added in google docs
 •	Crash screen — "Rippl has stopped working"
 •	Profile picture selection screen (Gallery-only)
                                     
